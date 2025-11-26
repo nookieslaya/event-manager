@@ -1,0 +1,15 @@
+.em-message {
+    min-height: 18px;
+}
+
+.em-success {
+    color: #15803d !important;
+    padding: 15px 0;
+}
+
+.em-error {
+    color: #b91c1c !important;
+    padding: 15px 0;
+}
+
+
